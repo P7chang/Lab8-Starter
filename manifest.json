@@ -4,8 +4,8 @@
     "description": "Some description...",
     "start_url": "./",
     "display": "standalone",
-    "background_color": "gold",
-    "theme_color": "dark",
+    "background_color": "red",
+    "theme_color": "black",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
